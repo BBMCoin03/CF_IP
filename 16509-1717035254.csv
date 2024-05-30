@@ -1,0 +1,170 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+99.80.238.19,2096,80,false,DUB,Europe,Dublin,258,0.00
+99.80.238.19,2053,80,false,DUB,Europe,Dublin,258,0.00
+15.160.14.66,2086,80,false,MXP,Europe,Milan,260,0.00
+15.160.15.255,2052,80,false,MXP,Europe,Milan,260,0.00
+18.201.182.189,80,443,true,DUB,Europe,Dublin,261,0.00
+15.160.15.101,2053,80,false,MXP,Europe,Milan,261,0.00
+15.160.14.66,2052,80,false,MXP,Europe,Milan,262,0.00
+15.160.14.66,2082,80,false,MXP,Europe,Milan,263,0.00
+15.160.252.181,2095,80,false,MXP,Europe,Milan,263,0.00
+15.160.14.66,2053,80,false,MXP,Europe,Milan,263,0.00
+15.161.216.233,2096,80,false,MXP,Europe,Milan,264,0.00
+15.161.74.249,2086,80,false,MXP,Europe,Milan,264,0.00
+15.161.40.69,2095,80,false,MXP,Europe,Milan,265,0.00
+15.160.19.149,2052,80,false,MXP,Europe,Milan,265,0.00
+15.160.15.101,2096,80,false,MXP,Europe,Milan,265,0.00
+15.160.15.101,2086,80,false,MXP,Europe,Milan,265,0.00
+15.161.74.249,2095,80,false,MXP,Europe,Milan,266,0.00
+15.160.252.181,2083,80,false,MXP,Europe,Milan,266,0.00
+15.161.216.233,2053,80,false,MXP,Europe,Milan,266,0.00
+15.160.80.28,2087,80,false,MXP,Europe,Milan,266,0.00
+15.160.250.170,2095,80,false,MXP,Europe,Milan,266,0.00
+15.161.186.110,2095,80,false,MXP,Europe,Milan,266,0.00
+15.160.80.28,2052,80,false,MXP,Europe,Milan,266,0.00
+15.160.14.66,2095,80,false,MXP,Europe,Milan,269,0.00
+15.160.15.255,2083,80,false,MXP,Europe,Milan,269,0.00
+15.161.216.233,2086,80,false,MXP,Europe,Milan,271,0.00
+13.48.36.215,2096,80,false,CPH,Europe,Copenhagen,272,0.00
+13.49.119.167,2096,80,false,OSL,Europe,Oslo,272,0.00
+13.53.216.67,80,80,false,CPH,Europe,Copenhagen,272,0.00
+13.49.119.167,2087,80,false,OSL,Europe,Oslo,272,0.00
+13.49.6.192,2087,80,false,OSL,Europe,Oslo,272,0.00
+13.49.119.167,2083,80,false,OSL,Europe,Oslo,273,0.00
+13.49.6.192,2096,80,false,OSL,Europe,Oslo,273,0.00
+13.51.138.200,2096,80,false,CPH,Europe,Copenhagen,273,0.00
+13.53.47.110,2095,80,false,OSL,Europe,Oslo,273,0.00
+13.49.6.192,2095,80,false,OSL,Europe,Oslo,273,0.00
+13.48.140.41,2082,80,false,OSL,Europe,Oslo,273,0.00
+13.51.138.200,2083,80,false,CPH,Europe,Copenhagen,273,0.00
+13.48.140.41,2053,80,false,OSL,Europe,Oslo,273,0.00
+13.49.119.167,2052,80,false,OSL,Europe,Oslo,273,0.00
+13.48.140.41,2052,80,false,CPH,Europe,Copenhagen,273,0.00
+13.49.119.167,2086,80,false,OSL,Europe,Oslo,273,0.00
+13.48.140.41,2096,80,false,OSL,Europe,Oslo,273,0.00
+13.51.138.200,2086,80,false,OSL,Europe,Oslo,273,0.00
+13.51.138.200,2053,80,false,CPH,Europe,Copenhagen,273,0.00
+13.51.138.200,2095,80,false,CPH,Europe,Copenhagen,273,0.00
+13.49.6.192,2053,80,false,OSL,Europe,Oslo,273,0.00
+13.48.36.215,2086,80,false,CPH,Europe,Copenhagen,273,0.00
+13.53.47.110,2082,80,false,OSL,Europe,Oslo,273,0.00
+13.48.36.215,2082,80,false,OSL,Europe,Oslo,273,0.00
+13.51.138.200,2082,80,false,CPH,Europe,Copenhagen,273,0.00
+13.53.47.110,2087,80,false,OSL,Europe,Oslo,274,0.00
+13.36.162.145,2086,80,false,CDG,Europe,Paris,302,0.00
+13.36.253.240,2087,80,false,CDG,Europe,Paris,303,0.00
+13.36.253.240,2053,80,false,CDG,Europe,Paris,303,0.00
+15.188.168.174,2052,80,false,CDG,Europe,Paris,303,0.00
+13.36.63.124,2052,80,false,CDG,Europe,Paris,304,0.00
+13.36.24.111,2087,80,false,CDG,Europe,Paris,304,0.00
+15.188.168.174,2082,80,false,CDG,Europe,Paris,304,0.00
+13.36.63.124,2096,80,false,CDG,Europe,Paris,305,0.00
+15.236.116.199,2096,80,false,CDG,Europe,Paris,305,0.00
+13.36.162.145,2096,80,false,CDG,Europe,Paris,306,0.00
+13.36.24.111,2052,80,false,CDG,Europe,Paris,306,0.00
+13.36.162.145,2095,80,false,CDG,Europe,Paris,306,0.00
+13.37.165.175,2053,80,false,CDG,Europe,Paris,306,0.00
+15.188.168.174,2053,80,false,CDG,Europe,Paris,307,0.00
+15.188.168.174,2086,80,false,CDG,Europe,Paris,307,0.00
+13.36.162.145,2082,80,false,CDG,Europe,Paris,308,0.00
+13.36.24.111,2083,80,false,CDG,Europe,Paris,309,0.00
+13.36.24.111,2082,80,false,CDG,Europe,Paris,309,0.00
+13.36.24.111,2096,80,false,CDG,Europe,Paris,310,0.00
+13.36.63.124,2083,80,false,CDG,Europe,Paris,311,0.00
+13.43.93.40,8443,443,true,LHR,Europe,London,311,0.00
+18.202.149.25,2095,80,false,DUB,Europe,Dublin,311,0.00
+13.36.253.240,2083,80,false,CDG,Europe,Paris,313,0.00
+13.36.253.240,2086,80,false,CDG,Europe,Paris,313,0.00
+13.40.211.154,8080,443,true,LHR,Europe,London,317,0.00
+13.36.162.145,2083,80,false,CDG,Europe,Paris,318,0.00
+15.160.250.170,2052,80,false,MXP,Europe,Milan,318,0.00
+99.80.238.19,2082,80,false,DUB,Europe,Dublin,320,0.00
+15.160.80.28,2086,80,false,MXP,Europe,Milan,320,0.00
+15.160.250.170,2053,80,false,MXP,Europe,Milan,320,0.00
+99.80.238.19,2087,80,false,DUB,Europe,Dublin,320,0.00
+15.160.19.149,2053,80,false,MXP,Europe,Milan,320,0.00
+15.161.74.249,2083,80,false,MXP,Europe,Milan,321,0.00
+15.161.186.110,2053,80,false,MXP,Europe,Milan,321,0.00
+15.160.250.170,2082,80,false,MXP,Europe,Milan,321,0.00
+15.160.15.255,2095,80,false,MXP,Europe,Milan,321,0.00
+15.160.252.181,2086,80,false,MXP,Europe,Milan,321,0.00
+15.160.19.149,2083,80,false,MXP,Europe,Milan,321,0.00
+15.160.19.149,2096,80,false,MXP,Europe,Milan,321,0.00
+15.160.19.149,2082,80,false,MXP,Europe,Milan,322,0.00
+15.161.216.233,2052,80,false,MXP,Europe,Milan,322,0.00
+15.160.19.149,2095,80,false,MXP,Europe,Milan,322,0.00
+52.60.241.195,2086,80,false,YYZ,North America,Toronto,323,0.00
+15.161.40.69,2087,80,false,MXP,Europe,Milan,323,0.00
+15.160.15.101,2095,80,false,MXP,Europe,Milan,323,0.00
+15.161.40.69,2096,80,false,MXP,Europe,Milan,323,0.00
+15.160.15.255,2082,80,false,MXP,Europe,Milan,324,0.00
+15.161.186.110,2096,80,false,MXP,Europe,Milan,324,0.00
+15.160.80.28,2053,80,false,MXP,Europe,Milan,324,0.00
+15.161.40.69,2052,80,false,MXP,Europe,Milan,324,0.00
+15.160.19.149,2086,80,false,MXP,Europe,Milan,325,0.00
+15.161.74.249,2082,80,false,MXP,Europe,Milan,325,0.00
+15.161.186.110,2086,80,false,MXP,Europe,Milan,326,0.00
+15.161.74.249,2052,80,false,MXP,Europe,Milan,326,0.00
+15.161.74.249,2087,80,false,MXP,Europe,Milan,326,0.00
+15.161.216.233,2083,80,false,MXP,Europe,Milan,326,0.00
+15.160.252.181,2082,80,false,MXP,Europe,Milan,326,0.00
+15.160.15.101,2083,80,false,MXP,Europe,Milan,326,0.00
+15.161.186.110,2082,80,false,MXP,Europe,Milan,327,0.00
+15.161.216.233,2095,80,false,MXP,Europe,Milan,327,0.00
+15.160.15.255,2096,80,false,MXP,Europe,Milan,327,0.00
+13.53.47.110,2052,80,false,CPH,Europe,Copenhagen,328,0.00
+15.160.15.101,2052,80,false,MXP,Europe,Milan,328,0.00
+15.161.40.69,2053,80,false,MXP,Europe,Milan,328,0.00
+15.160.250.170,2083,80,false,MXP,Europe,Milan,328,0.00
+15.160.250.170,2096,80,false,MXP,Europe,Milan,328,0.00
+15.160.80.28,2095,80,false,MXP,Europe,Milan,328,0.00
+15.160.80.28,2083,80,false,MXP,Europe,Milan,328,0.00
+15.161.74.249,2053,80,false,MXP,Europe,Milan,328,0.00
+15.160.252.181,2096,80,false,MXP,Europe,Milan,328,0.00
+15.160.80.28,2096,80,false,MXP,Europe,Milan,328,0.00
+13.53.47.110,2083,80,false,CPH,Europe,Copenhagen,329,0.00
+15.160.15.101,2087,80,false,MXP,Europe,Milan,329,0.00
+15.160.250.170,2086,80,false,MXP,Europe,Milan,329,0.00
+15.160.19.149,2087,80,false,MXP,Europe,Milan,329,0.00
+15.160.15.101,2082,80,false,MXP,Europe,Milan,330,0.00
+15.161.186.110,2052,80,false,MXP,Europe,Milan,331,0.00
+15.161.186.110,2083,80,false,MXP,Europe,Milan,331,0.00
+15.161.40.69,2083,80,false,MXP,Europe,Milan,331,0.00
+15.160.250.170,2087,80,false,MXP,Europe,Milan,331,0.00
+13.53.206.75,443,443,true,OSL,Europe,Oslo,331,0.00
+15.161.216.233,2087,80,false,MXP,Europe,Milan,331,0.00
+13.53.47.110,2096,80,false,OSL,Europe,Oslo,331,0.00
+15.160.252.181,2087,80,false,MXP,Europe,Milan,331,0.00
+13.51.167.69,2096,443,true,OSL,Europe,Oslo,331,0.00
+15.160.252.181,2052,80,false,MXP,Europe,Milan,332,0.00
+15.161.74.249,2096,80,false,MXP,Europe,Milan,332,0.00
+15.161.186.110,2087,80,false,MXP,Europe,Milan,332,0.00
+13.49.6.192,2082,80,false,OSL,Europe,Oslo,335,0.00
+15.160.80.28,2082,80,false,MXP,Europe,Milan,335,0.00
+13.49.119.167,2095,80,false,OSL,Europe,Oslo,336,0.00
+13.48.36.215,2095,80,false,OSL,Europe,Oslo,336,0.00
+15.160.15.255,2087,80,false,MXP,Europe,Milan,336,0.00
+13.53.47.110,2086,80,false,OSL,Europe,Oslo,337,0.00
+13.51.169.255,8080,443,true,OSL,Europe,Oslo,338,0.00
+13.53.47.110,2053,80,false,OSL,Europe,Oslo,338,0.00
+15.160.14.66,2087,80,false,MXP,Europe,Milan,338,0.00
+13.53.126.251,2053,443,true,OSL,Europe,Oslo,338,0.00
+13.49.119.167,2082,80,false,OSL,Europe,Oslo,338,0.00
+15.160.252.181,2053,80,false,MXP,Europe,Milan,341,0.00
+15.161.216.233,2082,80,false,MXP,Europe,Milan,342,0.00
+13.49.119.167,2053,80,false,OSL,Europe,Oslo,343,0.00
+13.246.85.121,2086,80,false,CPT,Africa,Cape Town,382,0.00
+13.245.152.196,2053,80,false,CPT,Africa,Cape Town,383,0.00
+13.246.85.121,2082,80,false,CPT,Africa,Cape Town,386,0.00
+13.246.85.121,2095,80,false,CPT,Africa,Cape Town,386,0.00
+13.245.152.196,2095,80,false,CPT,Africa,Cape Town,387,0.00
+13.246.85.121,2096,80,false,CPT,Africa,Cape Town,391,0.00
+13.246.85.121,2083,80,false,CPT,Africa,Cape Town,440,0.00
+13.245.152.196,2052,80,false,CPT,Africa,Cape Town,442,0.00
+13.246.85.121,2053,80,false,CPT,Africa,Cape Town,442,0.00
+13.245.152.196,2087,80,false,CPT,Africa,Cape Town,445,0.00
+13.245.152.196,2086,80,false,CPT,Africa,Cape Town,446,0.00
+13.246.85.121,2052,80,false,CPT,Africa,Cape Town,449,0.00
+13.245.152.196,2096,80,false,CPT,Africa,Cape Town,449,0.00
+13.245.152.196,2082,80,false,CPT,Africa,Cape Town,452,0.00
+13.246.85.121,2087,80,false,CPT,Africa,Cape Town,457,0.00
